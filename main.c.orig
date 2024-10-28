@@ -1,8 +1,10 @@
 
 here the file for ccase study2
-
 <<<<<<< HEAD
-here the new update in the master
-=======
+here the new update in the maste
 New feature1 is updated
->>>>>>> feature1
+=======
+
+lastest feature  has been added 
+ feature2
+>>>>>>> feature2
